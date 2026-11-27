@@ -1,0 +1,58 @@
+{
+  "state": "NM",
+  "osm_extract": "new-mexico-260101.osm.pbf",
+  "nces_file": "EDGE_GEOCODE_PUBLICSCH_2425.zip",
+  "params": {
+    "radius_m": 500,
+    "threshold": 0.56
+  },
+  "nces_schools": 927,
+  "matched": 650,
+  "ambiguous": 172,
+  "missing": 105,
+  "osm_schools": 1372,
+  "osm_only": 478,
+  "osm_duplicates": 164,
+  "evaluation": {
+    "ours": {
+      "schools": 76,
+      "in_osm": 64,
+      "tp": 55,
+      "fp": 1,
+      "fn": 9,
+      "precision": 0.9821428571428571,
+      "precision_ci": [
+        0.9055414182080672,
+        0.9968408710355361
+      ],
+      "recall": 0.859375,
+      "recall_ci": [
+        0.7538349160536257,
+        0.9242151299358556
+      ],
+      "f1": 0.9166666666666665,
+      "ambiguous": 15,
+      "review_recall": 0.96875
+    },
+    "splink": {
+      "schools": 76,
+      "in_osm": 64,
+      "tp": 58,
+      "fp": 5,
+      "fn": 6,
+      "precision": 0.9206349206349206,
+      "precision_ci": [
+        0.8272947198845853,
+        0.9656246596634805
+      ],
+      "recall": 0.90625,
+      "recall_ci": [
+        0.8101690141672233,
+        0.9563223421687121
+      ],
+      "f1": 0.9133858267716536,
+      "ambiguous": 0,
+      "review_recall": 0.90625
+    }
+  }
+}

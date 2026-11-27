@@ -1,0 +1,6 @@
+data/raw/
+__pycache__/
+*.part
+.pytest_cache/
+results/*/*.gpkg-shm
+results/*/*.gpkg-wal

@@ -1,0 +1,643 @@
+osm_key,name,operator,operator_type,isced_level,addr_city,duplicate_of,name_from,role,lat,lon
+node/2971986844,,,,,,,,osm_only,35.198464,-105.140652
+node/3739902961,,,,,,,,osm_only,34.188763,-103.321796
+node/4726385503,,,,,,,,osm_only,35.039968,-107.376424
+node/5954963856,,,,,,,,osm_only,31.783353,-107.628856
+node/7755152880,,,,,,,,osm_only,35.649664,-105.262173
+node/10046294655,,,,,,,,osm_only,34.492655,-103.319712
+node/12350947518,,,,,,,,osm_only,35.580579,-105.395312
+node/12514203636,,,,,,,,osm_only,32.380938,-106.093649
+node/12922861775,,,,,,,,osm_only,31.780742,-107.911164
+node/12922861786,,,,,,,,osm_only,31.78348,-107.630074
+node/12992834893,,,,,,,,osm_only,35.02854,-104.410199
+node/13253442963,,,,,,,,osm_only,36.357106,-105.606574
+way/48343848,,,,,,,,osm_only,35.122015,-106.59312
+way/48385728,,,,,,,,osm_only,35.068498,-106.641246
+way/148885940,,,,,,,,osm_only,33.147151,-107.252211
+way/148885944,,,,,,,,osm_only,33.147735,-107.252032
+way/148885945,,,,,,,,osm_only,33.147835,-107.252674
+way/182598552,,,,,,,,osm_only,36.732222,-108.407862
+way/203689608,,,,,,,,osm_only,35.750112,-109.049056
+way/206577824,,,,,,,,osm_only,35.078023,-106.599455
+way/323274220,,,,,,,,osm_only,35.076454,-106.3926
+way/358278091,,,,,,,,osm_only,35.068636,-106.668861
+way/369625437,,,,,,,,osm_only,33.382206,-104.521642
+way/369625440,,,,,,,,osm_only,33.383113,-104.521644
+way/376918727,,,,,,,,osm_only,35.081456,-106.587125
+way/599036752,,,,,,,,osm_only,36.777848,-108.137256
+way/605950721,,,,,Santa Fe,,,osm_only,35.669324,-105.961573
+way/622152468,,,,,,,,osm_only,36.746053,-108.183015
+way/722815643,,,,,,,,osm_only,36.826918,-107.993422
+way/722827489,,,,,,,,osm_only,36.827715,-107.989294
+way/722947810,,,,,,,,osm_only,36.824641,-107.993651
+way/723007874,,,,,,,,osm_only,36.817516,-107.992033
+way/726961459,,,,,,,,osm_only,36.718866,-108.176544
+way/755774182,,,,,,,,osm_only,34.381559,-103.035812
+way/755774188,,,,,,,,osm_only,34.380449,-103.035513
+way/755774190,,,,,,,,osm_only,34.379594,-103.035166
+way/779657485,,,,,,,,osm_only,35.517374,-108.708177
+way/801527271,,,,,,,,osm_only,35.52582,-108.689947
+way/801527272,,,,,,,,osm_only,35.526213,-108.692037
+way/818944943,,,,,,,,osm_only,35.52492,-108.707945
+way/902872065,,,,,,,,osm_only,35.113804,-107.884203
+way/977744258,,,,,Velarde,,,osm_only,36.14804,-105.980541
+way/1014195798,,,,,,,,osm_only,35.781026,-103.95716
+way/1097140135,,,,,,,,osm_only,31.836322,-107.639107
+way/1097147981,,,,,,,,osm_only,33.379513,-105.257193
+way/1117169219,,,,,,,,osm_only,35.617998,-105.213972
+way/1123030432,,,,,,,,osm_only,35.121426,-106.698599
+way/1148743871,,,,,,,,osm_only,35.132678,-108.489817
+way/1148896462,,,,,,,,osm_only,36.738124,-108.370104
+way/1192604056,,,,,,,,osm_only,32.95229,-103.354999
+way/1198081980,,,,,,,,osm_only,35.108452,-106.699657
+way/1267051092,,,,,,,,osm_only,35.053401,-106.623855
+way/1305805792,,,,,,,,osm_only,36.029455,-106.944458
+way/1330784382,,,,,,,,osm_only,32.70961,-103.120076
+way/1331504877,,,,,,,,osm_only,32.689042,-103.134201
+way/1350533682,,,,,,,,osm_only,36.041296,-106.059177
+way/1353613445,,,,,,,,osm_only,35.100862,-106.374687
+way/1421487624,,,,,,,,osm_only,35.065586,-108.826053
+way/1442450101,,,,,,,,osm_only,36.763376,-108.705622
+way/1442450102,,,,,,,,osm_only,36.760795,-108.707937
+way/1454999946,,,,,,,,osm_only,34.374619,-105.700424
+way/1461471074,,,,,,,,osm_only,35.896042,-106.118245
+node/1795168783,APS Soccer Complex,Albuquerque Public Schools,public,,,,,osm_only,35.178394,-106.740012
+way/290880174,Abo Elementary School,,,,,,,osm_only,32.83228,-104.418698
+node/357613810,Abundant Life Christian Academy,,,,,,,osm_only,34.64982,-106.732427
+way/559950056,Abundant Life Christian Center,,,,,,,osm_only,34.64983,-106.732409
+way/682815876,Academy for the Love of Learning,,,,,,,osm_only,35.599598,-105.930152
+node/357569822,Acomita School,,,,,,,osm_only,35.052542,-107.577551
+way/560420385,Adelino Early Childhood Development Center,,,,,,,osm_only,34.713298,-106.73008
+way/525064780,Adventist Academy Of Santa Fe,,,,Santa Fe,,,osm_only,35.697423,-105.930811
+node/13158639601,Aikido of Albuquerque,,,,,,,osm_only,35.1384,-106.583513
+node/13158643401,Aikido of Albuquerque,,,,,,,osm_only,35.138398,-106.583514
+relation/15485609,Alamo Day School,,,,,,,osm_only,34.431053,-107.509133
+node/357569935,Albert Academy,,,,,,,osm_only,35.891148,-103.814966
+way/165886220,Albuquerque Academy,,,,,,,osm_only,35.15255,-106.550242
+way/191521704,Albuquerque Collegiate Charter School,,,,,,,osm_only,35.098731,-106.667286
+node/357576195,Albuquerque Public Schools Mainentence Center,Albuquerque Public Schools,public,,,,,osm_only,35.074214,-106.637802
+way/204683697,Albuquerque Sign Language Academy,,,,,,way/1376013479,osm_only,35.130992,-106.640829
+node/357613766,All Tribes Indian Mission School,,,,,,,osm_only,35.300097,-106.550202
+node/357569986,Amalia School,,,,,,,osm_only,36.92558,-105.451396
+node/357614029,Amistad Elementary School,,,,,,,osm_only,36.451598,-103.184124
+way/256943208,Annunciation Catholic School,,,,Albuquerque,,,osm_only,35.111619,-106.55516
+node/357613751,Arise and Shine School,,,,,,,osm_only,32.771235,-108.283357
+node/357613591,Armijo Elementary School,,,,,,,osm_only,35.593933,-105.167228
+way/514364336,Arrowhead Park Medical Academy,,,,,,,osm_only,32.275306,-106.739609
+node/357613564,Arroyo Seco Elementary School,,,,,,,osm_only,36.520121,-105.56905
+node/357613728,Aspen Meadows Hospital School,,,,,,,osm_only,36.159002,-105.974766
+way/678813544,Aztec Dormitory,,,,,,,osm_only,36.831274,-108.013311
+way/723009574,Aztec Municipal School District Maintenance Department & District Warehouse,,,,,,,osm_only,36.822288,-107.988553
+way/669389946,Aztec Municipal School District Offices,,,,,,,osm_only,36.825344,-108.006627
+way/669252344,Aztec Museum & Pioneer Village,,,,,,,osm_only,36.823666,-107.995207
+way/682329176,B F Young School (closed),Santa Fe Public Schools,public,,,,,osm_only,35.678762,-105.959293
+node/357570247,Bagley School,,,,,,,osm_only,33.358719,-103.661621
+node/4439899479,Bataan Death March Charter School,,,,,,,osm_only,35.138985,-106.583936
+node/357585484,Bear Den School,,,,,,,osm_only,33.395489,-106.674295
+node/357570488,Benito School,,,,,,,osm_only,36.963616,-107.58061
+node/357592131,Bent Public School,,,,,,,osm_only,33.161751,-105.845822
+node/357570515,Berean School,,,,,,,osm_only,36.402175,-107.852429
+node/357613584,Berino Elementary School,,,,,,,osm_only,32.003918,-106.605799
+node/357613725,Bible Baptist School,,,,,,,osm_only,35.678267,-108.149885
+node/357614288,Bible Baptist Shepherd,,,,,,,osm_only,36.266485,-107.742462
+node/357610798,Bluewater Elementary School,,,,,,,osm_only,33.557864,-105.186096
+node/10972446211,Bond Wilson Technical Center,,,,,,,osm_only,36.746575,-108.380628
+node/357613718,Borrega Pass,,,,,,,osm_only,35.678077,-108.223403
+node/8149499981,Borrego Pass School,,,,,,,osm_only,35.573086,-108.004897
+way/173093581,Bosque School,,,,Albuquerque,,,osm_only,35.142139,-106.688151
+node/357570971,Bradley School,,,,,,,osm_only,32.308983,-106.770559
+node/357570992,Brethren Navajo Boarding School,,,,,,,osm_only,36.209371,-107.461642
+way/1148889243,Brethren in Christ Mission School,,,,,,node/357570988,osm_only,36.334119,-107.841612
+way/363686317,Buena Vista School,,,,,,,osm_only,35.154629,-103.734142
+node/357571332,CA School,,,,,,,osm_only,35.613655,-103.824412
+node/357613926,CARC Farm School,,,,,,,osm_only,32.453859,-104.245086
+way/513761390,CNM Rio Rancho Campus,CNM,,,Rio Rancho,,,osm_only,35.318401,-106.68381
+node/1543131468,Calvary Chapel Academy,,,,,,,osm_only,34.684905,-106.766787
+way/204004232,Calvary Christian Academy,,,,,,,osm_only,35.095395,-106.501887
+way/1395937169,Calvary Christian Academy,,,,,,,osm_only,32.741921,-108.29345
+node/357613989,Canjilon Elementary School,,,,,,,osm_only,36.478958,-106.436554
+node/357582373,Canton School,,,,,,,osm_only,34.216742,-104.03219
+way/1009648137,Canyoncito Montessori School and Child Care Center,,,,Los Alamos,,,osm_only,35.884603,-106.304639
+node/357592751,Capulin School,,,,,,,osm_only,36.228643,-106.823539
+node/357571633,Carver School,,,,,,,osm_only,33.389227,-104.520492
+node/357571637,Casa Colorada School,,,,,,,osm_only,34.568117,-106.749193
+node/357571641,Casa Salazar School,,,,,,,osm_only,35.522808,-107.096987
+node/357571701,Cavel School,,,,,,,osm_only,33.946194,-104.489418
+node/357592697,Cañon Brethren School,,,,,,,osm_only,36.389495,-105.563997
+node/357592703,Cañones Grade School,,,,,,,osm_only,36.184463,-106.43531
+node/357571785,Center Point School,,,,,,,osm_only,34.347289,-106.113343
+node/357571789,Center School,,,,,,,osm_only,34.347542,-103.214971
+way/223232996,Center for Exceptional Children,,,,,,,osm_only,32.893315,-105.954726
+node/357591437,Central Christian School,,,,,,,osm_only,33.383587,-104.530542
+way/1459799289,Central Elementary School,,,,Lordsburg,,,osm_only,32.349546,-108.710783
+node/357571806,Central School,,,,,,,osm_only,31.918992,-106.63277
+node/357613992,Chama Elementary School,,,,,,,osm_only,36.903097,-106.578802
+node/357614260,Chi Chil Tah Jones Ranch School,,,,,,,osm_only,35.156141,-108.874251
+node/357590109,Child Garden School,,,,,,,osm_only,33.383424,-104.530537
+node/2190619251,Chinese Culture Center & Lin's Martial Arts Academy,,,,,,,osm_only,35.073309,-106.594744
+node/357591315,Chisum Elementary School,,,,,,,osm_only,33.376488,-104.513024
+way/1148816867,Christ for All Ministries,,,,,,,osm_only,36.229002,-107.547147
+node/5732580748,Christian Heritage Academy,,,,Albuquerque,,,osm_only,35.11364,-106.568474
+node/357614305,Chuska Boarding School,,,,,,,osm_only,35.851022,-108.745728
+node/357572011,Chuska School,,,,,,,osm_only,35.849519,-108.74544
+node/357572018,Cienega School,,,,,,,osm_only,32.0515,-105.098845
+node/357572022,Cienega School,,,,,,,osm_only,35.562534,-106.1253
+node/357614033,Clayton High School,,,,,,,osm_only,36.451595,-103.184122
+node/357614211,College Street School,,,,,,,osm_only,32.771321,-108.283368
+way/776856898,Columbian School,,,,Raton,,,osm_only,36.909588,-104.438139
+node/357572171,Conchas School,,,,,,,osm_only,35.376438,-104.179976
+way/1418428371,Cottonwood Montessori School,,,,,,,osm_only,35.218469,-106.62039
+node/357572275,Cottonwood School,,,,,,,osm_only,32.929555,-104.429408
+node/357614219,Covenant Christian School,,,,,,,osm_only,35.827526,-106.206692
+way/1378827587,Covenant School Del Norte,,,,Albuquerque,,,osm_only,35.173864,-106.519099
+way/1116213449,Coyote Elementery School,,,,,,,osm_only,36.167462,-106.620635
+way/361193061,Craft Elementary School,,,,Carlsbad,,,osm_only,32.413714,-104.231029
+way/250752598,Crestview Christian Academy,Texico Conference of Seventh-Day Adventists,,,Albuquerque,,,osm_only,35.111689,-106.707941
+way/182629407,Cross Of Hope School,,,,Albuquerque,,,osm_only,35.155032,-106.693422
+node/357599948,DH Lawrence Ranch (UNM),,,,,,,osm_only,36.582695,-105.59367
+way/1096226262,DZ School,,,,Dzilth-Na-O-Dith-Hle,,,osm_only,36.390892,-107.836903
+node/357572543,Dahlia School,,,,,,,osm_only,35.118385,-105.268894
+node/357613544,David Skeet Elementary,,,,,,,osm_only,35.156141,-108.871474
+node/503457341,Desert Pride Accademy,GISD,,,,,,osm_only,31.984827,-106.650492
+way/194146987,Dexter High School,,,,,,,osm_only,33.199159,-104.376538
+node/7021856894,District Office,,,,,,,osm_only,36.721732,-105.597846
+way/363667955,Doctor Emitt M Smith Preschool,,,,Carlsbad,,,osm_only,32.394643,-104.227289
+way/1148743875,Dowa Yalanne School,,,,,,node/357572795,osm_only,35.063206,-108.848367
+node/357621612,Dudley School,,,,,,,osm_only,32.895366,-105.957209
+node/357572862,Dunbar School,,,,,,,osm_only,32.118154,-106.662774
+node/357613852,Dzilth-na-o-dith-hle,,,,,,,osm_only,36.71282,-107.983949
+node/7541102337,Early Childhood Learning Center/Headstart,,,,Kewa Pueblo,,,osm_only,35.482435,-106.314681
+node/357572978,East Mesa School,,,,,,,osm_only,34.442289,-106.0314
+node/357573024,East Side School,,,,,,,osm_only,33.398154,-104.51608
+node/357589418,Eastern New Mexico University - Ruidoso Campus,,,,,,,osm_only,33.33149,-105.67278
+way/364433314,Eddy Alternative School,,,,Carlsbad,,,osm_only,32.422211,-104.236111
+relation/11171858,Edward E. Torres Elementary School,Socorro Consolidated School District,,,Socorro,,,osm_only,34.056878,-106.896483
+node/357589378,El Rito Campus,,,,,,,osm_only,36.336327,-106.191296
+node/357610940,El Rito Normal School,,,,,,,osm_only,36.33636,-106.191623
+node/357614006,Escallante High School,,,,,,,osm_only,36.703848,-106.577059
+node/357594148,Escuela de Abajo,,,,,,,osm_only,36.135024,-105.796128
+node/357604678,Espanola Elementary School,,,,,,,osm_only,35.99145,-106.080108
+node/357589260,Eunice Holiness Academy,,,,,,,osm_only,32.43901,-103.15908
+node/357594161,Evangelical School,,,,,,,osm_only,36.157523,-105.976688
+node/357573459,Ewing School,,,,,,,osm_only,34.666727,-106.187796
+node/357614234,Faith Christian School,,,,,,,osm_only,36.165832,-105.737895
+way/680601656,Farmington Public Schools Bus Yard,,,,,,,osm_only,36.72554,-108.168857
+node/357621608,Father James B Hay School,,,,,,,osm_only,32.897588,-105.949709
+node/5745997961,Fayette Street Academy,,,,Santa Fe,,,osm_only,35.676647,-105.962645
+node/357573628,Five Points School,,,,,,,osm_only,35.068652,-106.668576
+node/357613246,Fort Sumner Elementary School,,,,,,,osm_only,34.47168,-104.24533
+node/357613253,Fort Sumner High School,,,,,,,osm_only,34.471626,-104.24517
+node/357613250,Fort Sumner Middle School,,,,,,,osm_only,34.471753,-104.245543
+node/357589896,Francis Family School,,,,,,,osm_only,35.687531,-105.946133
+node/357614364,Free Trinity School,,,,,,,osm_only,35.57225,-108.765122
+node/357574176,Gallinas School,,,,,,,osm_only,35.589766,-105.217508
+node/357594403,Gallinas School,,,,,,,osm_only,35.689484,-105.366956
+node/357590106,Gateway Christian School,,,,,,,osm_only,33.382896,-104.513112
+way/1257561026,Generations Academy,,,,,,,osm_only,34.180432,-103.339465
+node/357613357,Glenwood Elementary School,,,,,,,osm_only,33.316452,-108.882949
+node/357594532,Gonzales Ranch School,,,,,,,osm_only,35.240881,-105.462511
+node/357574429,Goodson School,,,,,,,osm_only,36.918632,-103.091878
+way/1181526595,Grace B. Wilson Elementary School,Central Consolidated School District,,,Kirtland,,,osm_only,36.746418,-108.376285
+node/357610839,Grace Baptist Academy,,,,,,,osm_only,35.16968,-107.89104
+node/357613794,Grace Baptist Academy,,,,,,,osm_only,36.750285,-108.183632
+node/357574465,Granger School,,,,,,,osm_only,35.170252,-103.728136
+node/357610834,Grants Christian Academy,,,,,,,osm_only,35.152509,-107.843187
+way/902829059,Grants Highschool Career Academy,Cibola Grants Public Schools,,,Grants,,,osm_only,35.155929,-107.84748
+way/1353992111,Growing Up Montessori School,,,,,,way/605937999,osm_only,35.634358,-105.977936
+node/357614350,Guadalupe Montessori School,,,,,,,osm_only,32.78321,-108.28371
+node/357574622,Hacienda de los Muchachos,,,,Farley,,,osm_only,36.354474,-104.037196
+node/357589197,Hagerman High School,,,,,,,osm_only,33.114973,-104.327203
+node/357594694,Hanover School,,,,,,,osm_only,32.80952,-108.092265
+node/357614411,Haqiqah Osrah School,,,,,,,osm_only,36.207352,-106.319099
+node/357574726,Harwood Art Center and Montessori,,,,,,,osm_only,35.09479,-106.653364
+way/760870409,Headstart and Child Care Center,,,,,,,osm_only,34.902488,-106.718808
+way/764306905,Henry T. Jaramillo Community School,,,,,,,osm_only,34.667418,-106.777283
+way/293374750,Hillcrest Elementary School,,,,Carlsbad,,,osm_only,32.423532,-104.255586
+node/7074082676,Holy Child Catholic School,,,,Tijeras,,,osm_only,35.08187,-106.381313
+way/1378955918,Holy Cross,,,,,,,osm_only,35.990688,-106.049089
+way/171153111,Holy Cross School,,,,,,,osm_only,32.320716,-106.790092
+way/165882122,Hope Christian School,,,,Albuquerque,,,osm_only,35.172224,-106.570562
+way/581620133,Ibero Academy,,,,,,,osm_only,31.847688,-106.614229
+way/991359159,Imagio Dei Academy,,private,,Alamogordo,,,osm_only,32.936517,-105.953563
+node/3279573085,Immaculate Conception School,,,,,,,osm_only,36.021542,-106.958208
+way/1144981832,Immanuel Lutheran School,,,,,,,osm_only,35.082055,-106.643049
+way/729415491,"Information Technology, Human Resources, and",Santa Fe Public Schools,,,,,,osm_only,35.656629,-105.980938
+node/12669463175,Institute of Religion,The Church of Jesus Christ of Latter-day Saints,religious,,,,,osm_only,32.285533,-106.750399
+way/172245471,J. Paul Taylor Academy,,,,,,,osm_only,32.360188,-106.773946
+way/1292574380,JHR,,,,,,,osm_only,35.994895,-106.088162
+node/11549080618,Jane Butel's Southwest Cooking,,,,Corrales,,,osm_only,35.2456,-106.618821
+node/357614172,Jemez Day School,,,,,,,osm_only,35.613856,-106.72582
+node/357613195,Jemez Valley Elementary School,,,,,,,osm_only,35.61398,-106.725895
+node/357614323,Jemez Valley Middle School,,,,,,,osm_only,35.613834,-106.725884
+node/357614612,Jesuit School Building,,,,,,,osm_only,35.596898,-105.199806
+node/7746327217,Journey Montessori School,,,,Santa Fe,,,osm_only,35.707974,-105.965681
+way/58600014,Kearney School,,,,Raton,,,osm_only,36.895129,-104.443095
+node/357575872,King School,,,,,,,osm_only,34.456997,-108.160895
+node/357595623,Kiser School,,,,,,,osm_only,36.448915,-103.188826
+node/357591532,Knowles School,,,,,,,osm_only,36.641667,-103.036389
+node/357621789,Knowles School,,,,,,,osm_only,36.642802,-103.036874
+node/357575925,L F D School,,,,,,,osm_only,33.383155,-104.464412
+node/357595706,La Jara School,,,,,,,osm_only,36.094738,-106.959819
+node/357595748,La Mesilla School,,,,,,,osm_only,35.95058,-106.07169
+node/357613242,La Union Elementary School,,,,,,,osm_only,32.122042,-106.707775
+way/1116765311,La Vida Missions,,,,,,,osm_only,36.118774,-108.168949
+node/357576026,LaVida Mission,,,,,,,osm_only,36.11779,-108.170904
+node/357611349,Laguna Elementary School,,,,,,,osm_only,35.040866,-107.432547
+way/1003321117,Legacy Christian Academy,,religious,0;1;2;3,,,,osm_only,32.90419,-105.924387
+way/1393659395,Legion Park Elementary,,,,,,node/6715069300,osm_only,35.617797,-105.229059
+node/357613421,Legion Park Elementary School,,,,,,,osm_only,35.593933,-105.167228
+node/357576172,Lewis Flats School,,,,,,,osm_only,32.228268,-107.573158
+node/357611353,Liahona Christian Academy,,,,,,,osm_only,35.040719,-107.432551
+node/357576189,Liberty School,,,,,,,osm_only,34.3909,-106.104177
+node/357582538,Liberty School,,,,,,,osm_only,34.126467,-104.031634
+node/357576476,Longview School,,,,,,,osm_only,32.246759,-107.152514
+way/203307101,Los Montoñas Charter High School,,,,,,,osm_only,32.307026,-106.776215
+node/357613191,Los Niños Elementary School,,,,,,,osm_only,35.593933,-105.167228
+node/357576558,Lourdes School,,,,,,,osm_only,35.443101,-105.135559
+way/176068054,Lowell Elementary School (part),,,,,,,osm_only,35.062802,-106.625722
+node/357576620,Lower Nutrias School,,,,,,,osm_only,36.568071,-106.596424
+node/357576697,Maddox School,,,,,,,osm_only,31.747596,-108.806441
+node/357576717,Maestas School,,,,,,,osm_only,35.706985,-104.514707
+relation/10162653,Magdalena Municipal Schools,Magdalena Municipal School District,,,,,,osm_only,34.116518,-107.234665
+way/396748111,Manzano Mesa Elementary,,,,Albuquerque,,,osm_only,35.092236,-106.666104
+way/1447059478,Mary Francis School,,,,,,,osm_only,35.07198,-106.568093
+node/357613393,Melrose Elementary School,,,,,,,osm_only,34.430748,-103.632273
+node/357589027,Melrose High School,,,,,,,osm_only,34.430453,-103.632279
+node/357589102,Memorial Middle School,,,,,,,osm_only,35.593933,-105.167228
+way/709823304,Memorial Middle School,Las Vegas City Schools,public,,Las Vegas,,,osm_only,35.615156,-105.236797
+way/182545693,Menaul School,,,,,,,osm_only,35.111133,-106.637617
+node/357596793,Mesa Pinabetal School,,,,,,,osm_only,36.132239,-106.704482
+node/357596796,Mesa Poleo School,,,,,,,osm_only,36.152239,-106.67976
+node/357613149,Mesa Vista Elementary School,,,,,,,osm_only,36.303076,-106.046688
+node/357589021,Mesa Vista High School,,,,,,,osm_only,36.302139,-106.04903
+way/56407688,Mesilla Valley Christian School,,,,,,,osm_only,32.273463,-106.757098
+node/357577077,Mesita School,,,,,,,osm_only,35.006156,-107.308376
+way/598655158,Mesquite Elementary School,,,,Mesquite,,,osm_only,32.165807,-106.694586
+way/705324634,Milagro Middle School,Santa Fe Public Schools,public,,Santa Fe,,,osm_only,35.655246,-105.972595
+node/357611341,Milan Elementary School,,,,,,,osm_only,35.183648,-107.890892
+node/357614881,Mimbres School,,,,,,,osm_only,32.856216,-107.979759
+way/58680378,Mission Lutheran Church School,,,,,,,osm_only,32.33771,-106.750556
+node/357589456,Miyamura High School,Gallup-McKinley County Schools,,,Gallup,,,osm_only,35.517245,-108.708417
+way/638904645,Monte Vista Montessori School,,,,,,,osm_only,35.542308,-105.914919
+way/361193236,Monterrey Elementary School,,,,Carlsbad,,,osm_only,32.433017,-104.261084
+node/357577336,Montesito School,,,,,,,osm_only,35.48227,-103.567462
+node/357619076,Montessoris Little Red School House,,,,,,,osm_only,33.331549,-105.672859
+way/953545661,Montezuma Street School,,,,Las Vegas,,,osm_only,35.585968,-105.22965
+node/357610765,Mount Taylor Elementary School,,,,,,,osm_only,35.169803,-107.89104
+node/357589402,Mount View Middle School,,,,,,,osm_only,33.382796,-104.512964
+way/364453070,Mountain View School,,,,,,node/357577489,osm_only,35.163433,-103.718986
+node/5893825194,Mountainair Community Resource Center,,,,,,,osm_only,34.521093,-106.243413
+way/808152829,Mountainview Elementary School,,,,Truchas,,,osm_only,36.015547,-105.853421
+way/185833758,Nageezi Preschool,,,,,,,osm_only,36.261159,-107.742983
+node/357597196,Nambe Indian School,,,,,,,osm_only,35.885026,-105.958077
+node/357613979,Naschitti Elementary School,,,,,,,osm_only,36.144477,-108.709118
+way/1140600234,Nataani Nez Elementary School,,,,,,node/357613946,osm_only,36.782097,-108.681639
+node/357577593,Navajo Bible School,,,,,,,osm_only,35.656861,-109.036486
+node/357577659,Nenahnezad Indian School,,,,,,,osm_only,36.731668,-108.407858
+way/1435852338,New Mexico Early Learning Academy,,,,,,,osm_only,35.083754,-106.696156
+node/357610496,New Mexico Industrial School,,,,,,,osm_only,36.385034,-104.623324
+way/558040656,New Mexico School For the Deaf,,,,,,,osm_only,35.125562,-106.602403
+node/357604508,Night High School,,,,,,,osm_only,32.270086,-106.800987
+node/5745997960,Nizhoni School for Global Consciousness,,,,Galisteo,,,osm_only,35.404378,-105.953495
+node/357589169,Noahs Ark Christian Preschool and Kindergarten,,,,,,,osm_only,33.382686,-104.513216
+node/357613353,Nob Hill Elementary School,,,,,,,osm_only,33.3316,-105.672775
+node/357613414,North Public Elementary School,,,,,,,osm_only,35.593933,-105.167228
+node/357589501,Northern New Mexico College,,,,,,,osm_only,36.003758,-106.086268
+node/357613183,OLO Sorrows Elementary School,,,,,,,osm_only,35.593933,-105.167228
+node/357613985,Ojo Amarillo Elementary School,,,,,,,osm_only,36.739023,-108.395695
+node/357597442,Ojo Caliente School,,,,,,,osm_only,36.269188,-106.053078
+node/357577965,Ojo Encino Trailer School,,,,,,,osm_only,35.956384,-107.345899
+way/675362123,Old Armijo School,,,,,,,osm_only,35.056304,-106.669773
+way/901813667,Old Laguna-Acoma High School,,,,Paraje,,,osm_only,35.053215,-107.446507
+node/357614781,Old Los Padillas School,,,,,,,osm_only,35.00005,-106.500577
+node/357578002,Old Maddox School,,,,,,,osm_only,31.75204,-108.805608
+node/357578024,Old Tuloso School,,,,,,,osm_only,35.520878,-104.760825
+way/997284858,Oregon Elementary School,Alamogordo Public Schools,public,1,Alamogordo,,,osm_only,32.906798,-105.944237
+way/189872054,Our Lady of Fatima Catholic School,,,,Albuquerque,,,osm_only,35.086735,-106.59874
+way/759309161,Our Lady of Sorrows School,,,,,,,osm_only,35.314412,-106.547137
+way/283208658,Our Lady of the Assumption Catholic School,,,,Albuquerque,,,osm_only,35.086407,-106.558797
+way/680473937,PMS Headstart,,,,,,,osm_only,36.720432,-108.188363
+node/10675527380,Paguate Day School,,,,,,,osm_only,35.139386,-107.375995
+node/357623112,Paradise Christian School,,,,,,,osm_only,35.19413,-106.71582
+node/357605516,Parish School,,,,,,,osm_only,36.5403,-105.695567
+node/357578166,Park School,,,,,,,osm_only,32.839553,-104.412192
+way/458179485,Parkview Elementary School,,,,Clovis,,,osm_only,34.40994,-103.19211
+way/361182371,Pate Elementary School,,,,Carlsbad,,,osm_only,32.388632,-104.222514
+node/357618994,Paul D Henry Elementary School,,,,,,,osm_only,35.593933,-105.167228
+way/458602577,Paul D. Henry Elementary School,,,,Las Vegas,,,osm_only,35.60347,-105.215604
+node/357610824,Pentecostal School,,,,,,,osm_only,35.081967,-107.59883
+way/845135650,Pine Hill Elementary School,,,,,,,osm_only,34.892153,-108.413808
+way/184170911,Pinedale Preschool,,,,,,,osm_only,35.610464,-108.449013
+node/357578382,Pitchfork School,,,,,,,osm_only,33.541212,-103.140502
+node/357597851,Plainview School,,,,,,,osm_only,33.67592,-105.133596
+node/357614344,Pojoaque Intermediate School,,,,,,,osm_only,35.892053,-106.024802
+node/357614396,Pojoaque Middle High School,,,,,,,osm_only,35.89213,-106.024966
+node/357589214,Pre-K Trinity Methodist Day School,,,,,,,osm_only,33.405654,-104.513024
+relation/17644581,Prince of Peace Lutheran School,,,,,,,osm_only,35.116784,-106.3737
+node/357589320,Program for Pregnant and Parenting Teens,,,,,,,osm_only,32.269939,-106.800552
+way/107136587,Pueblo Pintado School,,,,,,,osm_only,35.963549,-107.655562
+way/1097148038,Puerto De Luna Community Complex,,,,Puerto De Luna,,,osm_only,34.826244,-104.629876
+way/197805064,Queen of Heaven Catholic School,Albuquerque Public Schools,public,,Albuquerque,,,osm_only,35.111459,-106.584366
+relation/15467891,Quemazon Montessori School,,,,,,,osm_only,35.890581,-106.325496
+node/357613230,Ramah Elementary School,,,,,,,osm_only,35.135493,-108.490419
+node/2484124490,Rancho Valmora,,,,Valmora,,,osm_only,35.816586,-104.92362
+node/357614107,Ranchvale Elementary School,,,,,,,osm_only,34.408047,-103.319095
+node/357578767,Red River School,,,,,,,osm_only,36.601975,-104.504989
+node/357614255,Rehoboth Christian Elementary School,,,,,,,osm_only,35.528724,-108.655756
+node/357619051,Rehoboth Christian High School,,,,,,,osm_only,35.527553,-108.655068
+way/127163969,Rio Vista Elementary School,,,,,,,osm_only,36.7214,-107.959823
+node/7074137115,Risen Savior Catholic School,,,,Albuquerque,,,osm_only,35.16819,-106.560738
+node/357589141,Rock Springs School,,,,,,,osm_only,36.022228,-106.958376
+node/357579254,Rocky Arroyo School,,,,,,,osm_only,32.471503,-104.439682
+way/779499585,Roosevelt School,,,,,,node/357579292,osm_only,35.522403,-108.732901
+node/357589483,Roswell Ed Serv Center,,,,,,,osm_only,33.366667,-104.531944
+node/357589369,Roswell High School,,,,,,,osm_only,33.383257,-104.530535
+node/357589477,Ruidoso Christian School,,,,,,,osm_only,33.34564,-105.604429
+way/448811017,SAHQ Academy Charter School,,,,,,node/3512365841,osm_only,35.078475,-106.631507
+node/1863748039,SMU-in-Taos,,,,,,,osm_only,36.275456,-105.577033
+way/1148896472,Sacred Heart Academy,,,,,,node/357579392,osm_only,36.751634,-108.453023
+node/357589271,Sacred Heart Cathedral Elementary and Middle School,,,,,,,osm_only,35.57105,-108.748726
+node/11421049411,Sacred Heart Catholic School,,,,,,,osm_only,35.525919,-108.735836
+way/621822238,Sacred Heart Catholic School,,,,Farmington,,,osm_only,36.733276,-108.206613
+way/364610390,Saint Anne Catholic School,,,,,,,osm_only,35.176318,-103.729126
+node/8140165838,Saint Anthony Mission School,,,,,,,osm_only,35.071903,-108.852223
+node/357598542,Saint Anthony School,,,,,,,osm_only,36.178287,-105.699753
+way/1114769169,Saint Bonaventure School,Saint Bonaventure Mission,religious,,,,,osm_only,35.403843,-108.222186
+way/361196151,Saint Edwards School,,,,Carlsbad,,,osm_only,32.42939,-104.244817
+node/357613846,Saint Francis Elementary School,,,,,,,osm_only,36.931182,-106.93242
+node/8359000978,Saint Francis School,,,,,,,osm_only,35.531601,-108.745142
+node/357579518,Saint Francis Xavier School,,,,,,,osm_only,35.075325,-106.645025
+node/357589265,Saint Francis of Assisi School,,,,,,,osm_only,35.572244,-108.748696
+way/746598257,Saint Helena Catholic School,,,,Hobbs,,,osm_only,32.726435,-103.135579
+way/1394871796,Saint Johns School,,,,,,node/357579526,osm_only,33.388343,-104.518238
+way/1149366720,Saint Joseph Elementary School,,,,San Fidel,,node/357610829,osm_only,35.086245,-107.596341
+node/2139950154,Saint Joseph’s Evangelization Center,,,,,,,osm_only,35.035138,-107.38861
+way/547752002,Saint Mary Catholic School,,,,Albuquerque,,,osm_only,35.086741,-106.654235
+way/759087812,Saint Mary Catholic School,,,,Belen,,,osm_only,34.662708,-106.780803
+way/1396142008,Saint Marys Academy,,,,,,node/357598591,osm_only,32.783866,-108.283751
+way/445127128,Saint Michael's High School,,,,Santa Fe,,,osm_only,35.650701,-105.950031
+node/357579647,Saint Peter Religious Education Center,,,,Roswell,,,osm_only,33.385448,-104.521238
+way/48472036,Saint Pius X High School,,,,Albuquerque,,,osm_only,35.129548,-106.698721
+node/8385746386,Saint Theresa of Avila School,,,,,,,osm_only,35.149168,-107.844119
+way/757486566,Saint Therese Catholic School,Archdiocese of Santa Fe Catholic School System,religious,,Albuquerque,,,osm_only,35.118567,-106.643223
+way/759210364,Saint Thomas Aquinas Catholic School,,,,Rio Rancho,,,osm_only,35.247441,-106.713483
+node/357579686,Salem School,,,,,,,osm_only,32.707299,-107.235021
+node/357614168,San Diego Elem/Mid Mission School,,,,,,,osm_only,35.613917,-106.72597
+way/197594432,San Felipe de Neri Catholic School,San Felipe de Neri Parish,,,Albuquerque,,,osm_only,35.094486,-106.669015
+node/357613744,San Francisco De Asis School,,,,,,,osm_only,36.358615,-105.608575
+node/357579839,San Isidro School,,,,,,,osm_only,32.767145,-107.281998
+node/357589619,San Juan CCDC,,,,,,,osm_only,36.737342,-108.224025
+node/357614182,San Juan Day School,,,,,,,osm_only,36.054325,-106.06898
+node/357604686,San Juan Elementary School,,,,,,,osm_only,36.052801,-106.047245
+node/357604590,San Lorenzo Elementary School,,,,,,,osm_only,36.048632,-106.285305
+node/357611359,San Mateo Elementary,,,,,,,osm_only,35.331707,-107.642742
+node/357613461,San Miguel Elementary School,,,,,,,osm_only,35.910298,-106.91365
+node/357613504,San Miguel School,,,,,,,osm_only,35.913076,-106.926706
+way/173545594,Sandia Preparatory School,,private,,Albuquerque,,,osm_only,35.150254,-106.618917
+way/1166010318,Santa Ana School,,,,,,node/357598839,osm_only,35.341922,-106.52162
+way/726134698,Santa Fe Escuela del Sol,,,,,,,osm_only,35.631778,-105.930711
+node/4965084021,Santa Fe Photographic Workshop,,,,,,,osm_only,35.669248,-105.919704
+way/471986953,Santa Fe Preparatory School,,,,Santa Fe,,,osm_only,35.672278,-105.916498
+way/726579335,Santa Fe School for the Arts and Sciences,Santa Fe School for the Arts and Sciences,private,,,,,osm_only,35.628696,-106.036568
+node/4743015980,Santa Fe School of Cooking,,,,Santa Fe,,,osm_only,35.689182,-105.943199
+node/357622890,Santa Rosa Public Schools,,,,,,,osm_only,34.939859,-104.684367
+node/357580030,Santa Rosa School,,,,,,,osm_only,36.724234,-107.827281
+way/756813945,Santo Nino Regional Elementary School,,,,Santa Fe,,,osm_only,35.606987,-106.004378
+node/357598896,Santonino School,,,,,,,osm_only,33.881997,-108.540617
+node/357613418,Sapello Elementary School,,,,,,,osm_only,35.777324,-105.25916
+way/476697015,School for Advanced Research,,,,Santa Fe,,,osm_only,35.674875,-105.931931
+way/173095726,School on Wheels,,,,,,,osm_only,35.13308,-106.714504
+node/357580140,Seama School,,,,,,,osm_only,35.049209,-107.525049
+node/357613735,Shiprock Alternative Kindergarten School,,,,,,,osm_only,36.785943,-108.680921
+node/357613731,Shiprock Alternative School,,,,,,,osm_only,36.785589,-108.680972
+node/357589510,Sierra Middle School,,,,,,,osm_only,33.383084,-104.530526
+node/357613186,Sierra Vista Elementary School,,,,,,,osm_only,35.593933,-105.167228
+node/357613748,Silver City Christian Academy,,,,,,,osm_only,32.771429,-108.283364
+node/357610809,Sky City Community,,,,,,,osm_only,34.895946,-107.581719
+node/357580391,Sky City School,,,,,,,osm_only,35.538356,-108.74064
+node/357613224,Smith Lake Elementary School,,,,,,,osm_only,35.522289,-108.138471
+way/1411057780,Smith School,,,,,,,osm_only,32.263694,-107.761048
+node/357623152,Southwestern Indian Polytechnical Institute,,,,Albuquerque,,,osm_only,35.174722,-106.666388
+node/357580664,Spring Hill School,,,,,,,osm_only,36.586969,-103.274941
+way/732493108,St. Catherine's Indian School (Closed),,,,,,,osm_only,35.696998,-105.947197
+node/3155412639,St. Mark's Montessori School,,,,,,,osm_only,35.085561,-106.611697
+node/357580711,State Boys School Area 1,,,,,,,osm_only,36.371978,-104.604712
+node/357569779,State University Ranch Headquarters,,,,,,,osm_only,32.530365,-106.804174
+node/357580741,Steiner School,,,,,,,osm_only,34.18487,-103.330048
+node/357599531,Sully School,,,,,,,osm_only,32.807576,-108.065597
+way/726134697,Sun Mountain Community School,,,,Santa Fe,,,osm_only,35.632026,-105.928461
+way/293353110,Sunland Park Elementary School,,,,,,,osm_only,31.793054,-106.57591
+node/357580837,Sunnyside School,,,,,,,osm_only,35.5328,-108.737584
+way/556573657,Sunset Mesa School (K-5th Grade Campus),,,,Albuquerque,,,osm_only,35.116829,-106.523786
+way/556573665,Sunset Mesa School (Preschool),,,,Albuquerque,,,osm_only,35.115333,-106.523814
+node/357580846,Sunshine School,,,,,,,osm_only,32.138571,-107.752282
+way/665209672,Swinburne Elementary School,,,,,,,osm_only,36.732882,-108.202487
+node/357580923,Tate School,,,,,,,osm_only,36.304197,-103.400504
+way/511365683,Tatum Municipal Schools,,,,Tatum,,,osm_only,33.253012,-103.319604
+node/357604554,Tawid School,,,,,,,osm_only,36.20731,-106.318892
+node/357613738,Temple Baptist Academy,,,,,,,osm_only,35.176579,-103.726995
+node/5745997962,Temple Beth Shalom Preschool,Temple Beth Shalom,,,Santa Fe,,,osm_only,35.672657,-105.939477
+node/12162494106,The Homeschool Classroom,,,,Santa Fe,,,osm_only,35.663475,-105.971871
+way/474208559,The Rio Grande School,,,,Santa Fe,,,osm_only,35.6721,-105.911382
+node/357581034,Thomason School,,,,,,,osm_only,36.263086,-103.489953
+way/1116466669,Thoreau Teacherage,Gallup-McKinley County Public Schools,school,,Thoreau,,,osm_only,35.418192,-108.234748
+node/357613778,Tohatchi Special Education and Training Center,,,,,,,osm_only,35.858136,-108.763408
+node/357614190,Torreon Christian School,,,,,,,osm_only,35.79297,-107.23702
+node/357581168,Torreon Day School,,,,,,,osm_only,35.779189,-107.244211
+way/260318220,Transition Services,Albuquerque Public Schools,public,,,,,osm_only,35.062993,-106.630635
+node/357581228,Trementina School,,,,,,,osm_only,35.463102,-104.494706
+node/357614408,Tres Piedras School,,,,,,,osm_only,36.646364,-105.96558
+node/357581241,Trinity Christian Academy,,,,,,,osm_only,35.152988,-106.696916
+node/357614250,Tsc'ii'ahi Community School,,,,,,,osm_only,35.678157,-108.149876
+node/357581280,Tse Bonita School,,,,,,,osm_only,35.628352,-108.955646
+way/513761388,UNM West Campus,,,,Rio Rancho,,,osm_only,35.313085,-106.682891
+node/1483920922,USAF Pararescue School,,,,,,,osm_only,35.049757,-106.560665
+node/357613179,Union Elementary School,,,,,,,osm_only,35.593938,-105.217819
+node/357581463,United States Indian School,,,,,,,osm_only,35.110298,-106.659433
+node/357623048,United States Job Corps School,,,,,,,osm_only,35.109167,-106.661667
+way/697043174,United World College Montezuma;Armand Hammer World College of the American West,United World College,,,Montezuma,,,osm_only,35.6555,-105.281489
+node/357581467,University of New Mexico Experimental Farm,,,,,,,osm_only,36.688336,-108.307855
+node/357605509,Upper Black Lake School,,,,,,,osm_only,36.320588,-105.283899
+way/368847611,Valley Christian Academy,,,,Roswell,,,osm_only,33.396736,-104.563801
+node/357613411,Valley Elementary School,,,,,,,osm_only,35.327547,-105.27473
+node/357614319,Valley Junior High School,,,,,,,osm_only,35.327547,-105.27473
+node/357604690,Velarde Elementary School,,,,,,,osm_only,36.147691,-105.980884
+node/357614265,Victory Christian School,,,,,,,osm_only,35.993965,-106.047525
+node/357581733,Washington School,,,,,,,osm_only,35.530856,-108.751751
+node/357605502,Watson School,,,,,,,osm_only,36.516692,-105.616677
+node/357589097,West Las Vegas Middle School,,,,,,,osm_only,35.593933,-105.167228
+way/867909631,"Western New Mexico University, Gardner Learning Center",,,,,,,osm_only,33.118259,-107.292072
+node/357614340,White Mountain Intermediate School,,,,,,,osm_only,33.357404,-105.658882
+way/1425643561,Wildcat Christian Academy,,,,,,,osm_only,35.630833,-108.906311
+way/1148896461,Wilson School,,,,,,node/357582090,osm_only,36.736802,-108.376746
+node/357600412,Wingate High School,,,,,,,osm_only,35.478635,-108.546746
+node/5436131064,Yucca Annex,,,,,,,osm_only,35.119206,-106.553966
+node/357614164,Zia Day School,,,,,,,osm_only,35.506742,-106.720321
+node/357582240,Zia School,,,,,,,osm_only,35.176588,-103.71812
+node/357621635,Zia School,,,,,,,osm_only,32.889811,-105.95082
+way/553211098,Zimmerly Elementary School,Socorro Consolidated Schoold District,,,Socorro,,,osm_only,34.062453,-106.896651
+way/1148743879,Zuni Christian Reformed Mission School,,,,Zuni,,,osm_only,35.065991,-108.850416
+node/357589235,,,,,,way/717317745,,duplicate,36.393584,-105.574464
+node/357622963,,,,,,way/172107784,,duplicate,35.104791,-106.717465
+node/1795168553,,,,,,way/168226886,,duplicate,35.178342,-106.732856
+node/6561958809,,,,,,way/1178695339,,duplicate,36.174155,-105.68527
+node/12202123599,,,,,,way/723007874,,duplicate,36.817577,-107.992392
+way/250879083,,,,,,way/457674924,,duplicate,36.803546,-108.697603
+way/259865739,,,,,,way/1051330920,,duplicate,34.648089,-103.907239
+way/259865740,,,,,,way/1051330920,,duplicate,34.647966,-103.907607
+way/259865741,,,,,,way/1051330920,,duplicate,34.648225,-103.907679
+way/259865742,,,,,,way/1051330920,,duplicate,34.647765,-103.907649
+way/259865743,,,,,,way/1051330920,,duplicate,34.647638,-103.907622
+way/625861722,,,,,,way/625861723,,duplicate,33.914434,-106.869716
+way/1256929058,,,,,Portales,way/1259135741,,duplicate,34.17053,-103.338069
+node/357569837,Adelino School,,,,,way/560420385,,duplicate,34.713113,-106.730304
+way/462009460,Adventist Academy of Santa Fe,,,,Santa Fe,way/525064780,,duplicate,35.697356,-105.930697
+node/2021095156,Albuquerque Collegiate Charter School,,,,Albuquerque,way/191521704,,duplicate,35.098611,-106.667214
+way/1376013479,Albuquerque Sign Language Academy,,,,,way/204683697,,duplicate,35.130906,-106.640888
+node/357604666,Alcalde Elementary School,,,,,way/706107920,,duplicate,36.097141,-106.039365
+node/6470901075,Amy Biehl Community School,,,,Santa Fe,way/227847573,,duplicate,35.600299,-106.008847
+way/568419724,Animas Elementary School,,,,,way/568419726,,duplicate,36.744999,-108.169811
+way/621822609,Apache Elementary School,,,,,way/631391743,,duplicate,36.735228,-108.212716
+way/326667047,Arrey Elementary School,,,,,way/1396142049,,duplicate,32.848111,-107.318458
+relation/15999595,Aspen School,,,,,relation/15467971,,duplicate,35.895544,-106.311188
+node/357591957,Bandelier Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/165561784,,duplicate,35.070603,-106.607524
+relation/15466236,Barranca Mesa Elementary School,,,,,relation/15466234,,duplicate,35.90312,-106.282199
+node/357592102,Bel-Air Elementary School,Albuquerque Public Schools (APS),,,Albuquerque,way/180147653,,duplicate,35.117761,-106.592378
+node/357613660,Bernalillo High School,,,,,way/316752023,,duplicate,35.320873,-106.540859
+node/357613657,Bernalillo Middle School,,,,,way/945317726,,duplicate,35.31254,-106.552526
+node/3716167920,Berrendo Middle School,,,,Roswell,way/367729374,,duplicate,33.473591,-104.511502
+way/621880477,Bluffview Elementary School,,,,,way/726961466,,duplicate,36.717855,-108.177429
+node/357570988,Brethren in Christ Mission School,,,,,way/1148889243,,duplicate,36.333067,-107.84145
+node/357622976,Carlos Rey Elementary,Albuquerque Public Schools,public,,Albuquerque,way/170787248,,duplicate,35.051316,-106.749741
+node/357619014,Carroll Elementary School,Bernalillo School District,,,Bernalillo,way/1124765264,,duplicate,35.313373,-106.542248
+node/357571688,Cathedral High School,,,,,way/903293538,,duplicate,35.518634,-108.742029
+node/357571523,Cañoncito Navajo Day School,,,,,way/1147238439,,duplicate,35.100599,-107.112261
+way/306055960,Central Elementary School,,,,,way/1180905631,,duplicate,32.838414,-104.403198
+node/357604670,Chimayo Elementary School,Española Public School District,public,,Chimayo,way/972746471,,duplicate,36.006624,-105.9487
+way/465675172,Cimarron High School,,,,,way/1289215421,,duplicate,36.513497,-104.920542
+node/357614050,Cloudcroft High School,,,,,way/94847630,,duplicate,32.958245,-105.741606
+node/357604597,Cobre High School,,,,,way/1395912136,,duplicate,32.757069,-108.1433
+node/357604600,Corona Elementary School,,,,,way/1454999930,,duplicate,34.249172,-105.597954
+node/357604603,Corona High School,,,,,way/1454999930,,duplicate,34.249277,-105.597091
+node/357572262,Coronado School,,,,,way/181474238,,duplicate,35.079214,-106.652998
+node/357598831,Corrales Elementary School,,,,Corrales,way/1123753063,,duplicate,35.228008,-106.613398
+node/357622635,Cottonwood Montessori,,,,,way/1418428371,,duplicate,35.218654,-106.621415
+node/357613578,Crownpoint Elementary School,,,,Crownpoint,way/1148787161,,duplicate,35.678662,-108.152301
+node/357610818,Cubero Elementary School,,,,,way/904626406,,duplicate,35.084711,-107.516778
+node/357572609,Del Norte Elementary School,,,,Roswell,way/368383248,,duplicate,33.427663,-104.51361
+node/357604675,Dixon Elementary School,,,,,way/977669045,,duplicate,36.197609,-105.885953
+node/357577814,Don Cecilio Martinez Elementary - North Star,,,,Las Vegas,way/1393659403,,duplicate,35.593655,-105.230842
+node/357572795,Dowa Yalanne School,,,,,way/1148743875,,duplicate,35.063366,-108.848695
+node/357613541,Dugan-Tarango Middle School,,,,,way/594828603,,duplicate,32.336849,-108.708459
+node/357572882,Duranes Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/188426237,,duplicate,35.111157,-106.674748
+node/357614015,Eagle Nest Elementary,,,,,way/705582807,,duplicate,36.551247,-105.260506
+node/198559414,East San Jose Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/48490925,,duplicate,35.062427,-106.646322
+way/452513428,Edmund G. Ross Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/165882117,,duplicate,35.172243,-106.573192
+node/357613337,Enos Garcia Elementary,,,,,way/813798700,,duplicate,36.408596,-105.578437
+node/198559664,Ernie Pyle Middle School,Albuquerque Public Schools,public,,Albuquerque,way/188768024,,duplicate,35.048576,-106.682375
+way/260225537,Grady Municipal School District,,,,Grady,way/365614693,,duplicate,34.823084,-103.318598
+node/357610470,Griegos Elementary School,,,,,way/202213472,,duplicate,35.12871,-106.663987
+way/605937999,Growing Up Montessori School,,,,Santa Fe,way/1353992111,,duplicate,35.634172,-105.978047
+node/357622800,Hodgin Elementary School,Albuquerque Public Schools (APS),,,Albuquerque,way/174979287,,duplicate,35.125922,-106.60128
+node/7161610306,Holy Cross Catholic School,,,,Santa Cruz,way/1378955918,,duplicate,35.991178,-106.049279
+way/1177980996,Hope Christian Elementary School,,,,,way/165882122,,duplicate,35.173536,-106.573484
+way/734347757,Hope Christian Middle School,,,,,way/165882122,,duplicate,35.173461,-106.569449
+node/357623143,Independence High School,,,,Rio Rancho,way/1425758524,,duplicate,35.264843,-106.633027
+node/7695552597,Jal Elementary School,Deming Public Schools,public,,Deming,way/949542046,,duplicate,32.112206,-103.190919
+node/357595359,Jemez Valley High School,,,,Canon,way/1116730760,,duplicate,35.657805,-106.736979
+node/357606097,Jemez Valley Public Schools,,,,,way/1116730760,,duplicate,35.655027,-106.736146
+node/2488286731,Kennedy Middle School,Gallup-McKinley County Schools,,,gallup,way/779657484,,duplicate,35.521554,-108.708427
+way/317808080,Kirtland Elementary,Albuquerque Public Schools,,,Albuquerque,way/184064956,,duplicate,35.057687,-106.604618
+relation/10059390,Kirtland Elementary School,,,,,way/727005570,,duplicate,36.753461,-108.353284
+node/198561211,Kit Carson Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/188768026,,duplicate,35.048836,-106.685686
+node/12113396801,La Cueva High School,,,,,way/48365305,,duplicate,35.182799,-106.555051
+way/550339657,Ladera del Norte School,,,,,way/629307201,,duplicate,36.760932,-108.200744
+node/357576085,Lake Valley Boarding School,,,,,way/307789156,,duplicate,36.090013,-108.156458
+node/6715069300,Legion Park Elementary,,,,,way/1393659395,,duplicate,35.617565,-105.228914
+node/357576198,Lincoln School,,,,,way/1149389131,,duplicate,35.52169,-108.748973
+relation/16033875,Los Alamos Middle School,,,,,relation/15466062,,duplicate,35.894201,-106.297166
+node/357613404,Loving Elementary School,,,,,way/1172328808,,duplicate,32.278798,-104.099678
+node/357589069,Loving High School,,,,,way/1172328809,,duplicate,32.277656,-104.098734
+node/357589075,Loving Middle School,,,,,way/1172328810,,duplicate,32.279465,-104.097431
+node/357576578,Lowell Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/166084510,,duplicate,35.062825,-106.628358
+relation/10017371,Lydia Rippey Elementary School,,,,,way/723019286,,duplicate,36.830786,-108.003624
+node/357623109,Marie Hughes Elementary,,,,,way/169399263,,duplicate,35.161111,-106.705077
+node/357613152,Maxwell Elementary School,,,,Maxwell,way/1344902703,,duplicate,36.538414,-104.543631
+way/722827033,McCoy Avenue Elementary School,,,,,way/731997941,,duplicate,36.830888,-107.988022
+node/357576990,Menaul School,Independent,,,Albuquerque,way/182545693,,duplicate,35.110601,-106.637803
+node/357610785,Mesa View Elementary School,,,,,way/626894466,,duplicate,35.152359,-107.840876
+node/357603472,Mesa Vista School,,,,,way/1312303841,,duplicate,36.330576,-106.029466
+node/357577285,Missouri Avenue Elementary School,,,,Roswell,way/369036026,,duplicate,33.385253,-104.532336
+node/357597031,Monte Vista Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/174985212,,duplicate,35.08269,-106.610334
+node/357577333,Monterey Elementary School,,,,,way/1394871787,,duplicate,33.361054,-104.535459
+node/357597037,Montezuma Elementary School,,,,,way/165561471,,duplicate,35.101713,-106.610025
+node/357577377,Mora Street School,,,,,way/156165909,,duplicate,35.598932,-105.221675
+node/12608243402,Mountain Mahogany Community School,,,,,way/1444627005,,duplicate,35.133112,-106.640758
+node/357604683,Mountain View Elementary School,,,,,way/808152829,,duplicate,36.015666,-105.853402
+node/357577489,Mountain View School,,,,,way/364453070,,duplicate,35.163381,-103.719214
+node/357613946,Nataani Nez Elementary School,,,,,way/1140600234,,duplicate,36.78315,-108.681286
+way/474258811,Nava Elementary School,,,,,way/474258829,,duplicate,35.653015,-105.981051
+node/357613453,Navajo Elementary School,,,,,way/1148777953,,duplicate,35.904227,-109.027504
+node/357622990,Navajo Elementary School,,,,,way/48385721,,duplicate,35.033333,-106.709722
+node/357613788,Navajo Preparatory School,,,,Farmington,way/622145554,,duplicate,36.735054,-108.227554
+way/461776261,New Mexico School for the Arts,,,,Santa Fe,relation/10045251,,duplicate,35.685335,-105.947604
+node/357613982,Newcomb Junior High School,,,,,way/1390370008,,duplicate,36.276308,-108.711693
+node/7321233663,Pajarito Middle School,Albuquerque Public Schools,public,,Albuquerque,way/783819365,,duplicate,35.001962,-106.712408
+node/357613629,Park Junior High School,,,,,way/1180905625,,duplicate,32.852841,-104.416285
+node/357613378,Pecos Elementary School,,,,,way/706062645,,duplicate,35.579411,-105.67936
+node/357614402,Pecos High School,,,,,way/706062647,,duplicate,35.582719,-105.678404
+node/357614399,Penasco High School,,,,,way/1178695339,,duplicate,36.174186,-105.685953
+node/357614314,Penasco Junior High School,,,,,way/1178695339,,duplicate,36.174668,-105.684989
+node/357613133,Peñasco Elementary School,,,,,way/1178695339,,duplicate,36.174004,-105.684062
+node/357622805,Placitas Elementary School,,,,Placitas,way/1096249667,,duplicate,35.310726,-106.426318
+node/357614391,Pojoaque High School,,,,,way/653678665,,duplicate,35.877526,-106.065358
+node/357578539,Pueblo Pintado School,,,,,way/107136587,,duplicate,35.963784,-107.655078
+node/357578559,Puerto de Luna School,,,,,way/1097148038,,duplicate,34.826226,-104.629544
+node/357589310,Ramah Middle and High School,,,,,way/1148743872,,duplicate,35.121796,-108.497026
+node/7127087853,Ranchos Elementary School,,,,,way/807912325,,duplicate,36.355479,-105.599062
+node/357613174,Raymond Gabaldon Elementary School,,,,,way/556606060,,duplicate,34.808446,-106.730457
+node/482804927,Rio Rancho High School,,,,,way/559593850,,duplicate,35.264518,-106.667422
+node/357579292,Roosevelt School,,,,,way/779499585,,duplicate,35.521906,-108.732572
+node/3512365841,SAHQ Academy Charter School,,,,,way/448811017,,duplicate,35.078627,-106.631817
+node/357579392,Sacred Heart Academy,,,,,way/1148896472,,duplicate,36.751943,-108.453274
+node/357579464,Saint Anne School,,,,,way/369302947,,duplicate,35.050392,-106.67616
+node/357613721,Saint Bonaventure School,Saint Bonaventure Mission,religious,,,way/1114769169,,duplicate,35.403945,-108.222175
+way/1114769175,Saint Bonaventure School,,,,Thoreau,way/1114769169,,duplicate,35.404329,-108.221987
+way/1114769176,Saint Bonaventure School,,,,Thoreau,way/1114769169,,duplicate,35.404063,-108.222196
+node/357579526,Saint Johns School,,,,,way/1394871796,,duplicate,33.388097,-104.518566
+node/357610829,Saint Joseph Elementary School,,,,,way/1149366720,,duplicate,35.086304,-107.596765
+node/357598591,Saint Marys Academy,,,,,way/1396142008,,duplicate,32.783836,-108.283189
+way/969986672,San Ildefonso School,,,,San Ildefonso Pueblo,way/1461471083,,duplicate,35.896289,-106.121193
+way/379030672,Sandia Base Elementary School,,,,Albuquerque,way/379030668,,duplicate,35.062476,-106.549987
+node/357598839,Santa Ana School,,,,,way/1166010318,,duplicate,35.341983,-106.521692
+node/7695567308,Shiwi Ts'ana Elementary School,Zuni Public Schools,public,,Zuni,way/1148743903,,duplicate,35.077665,-108.808779
+node/357605241,Sombrillo Elementary School,,,,Espanola,way/1350533673,,duplicate,35.976207,-106.040001
+node/357580716,State Boys School Area 2,,,,,way/1096305207,,duplicate,36.386978,-104.626935
+way/259696521,Sweeney Elementary School,SFPS,,,Santa Fe,way/1250723424,,duplicate,35.635328,-106.035711
+node/6723040782,Taos Academy Charter School,,,,Taos,way/1357643335,,duplicate,36.381538,-105.594941
+node/357613097,Taos Charter School,,,,,way/652933479,,duplicate,36.374993,-105.568103
+node/357623155,Taylor Middle School,,,,,way/180728947,,duplicate,35.176389,-106.638056
+node/357613443,Thoreau Elementary School,,,,,way/1097408588,,duplicate,35.406163,-108.224208
+node/357589136,Thoreau Mid School,Gallup McKinley County Schools,public,,Thoreau,way/1117961298,,duplicate,35.415536,-108.232559
+node/357613997,Tierra Amarilla Elementary School,,,,,way/804847169,,duplicate,36.703523,-106.58168
+node/6522248329,Tierra Encantada Charter School,,,,Santa Fe,way/1337623808,,duplicate,35.62472,-105.999036
+node/357613882,Tohatchi Elementary School,,,,,way/1148777933,,duplicate,35.859156,-108.754707
+node/357589119,Tohatchi High School,,,,,way/1148777931,,duplicate,35.861634,-108.753308
+node/357589131,Tohatchi Middle School,,,,,way/1148777932,,duplicate,35.859296,-108.75226
+node/1795168780,Tony Hillerman Middle School,,,,,way/168226883,,duplicate,35.178008,-106.737802
+way/260048409,Tucumcari Elementary School,,,,Tucumcari,way/363693122,,duplicate,35.163053,-103.736369
+node/3251914858,Tularosa Elementary School,,,,Tularosa,way/318810730,,duplicate,33.072009,-106.012994
+node/3251914859,Tularosa Intermediate School,,,,Tularosa,way/318810730,,duplicate,33.071692,-106.012628
+node/357604574,Tularosa Middle School,,,,Tularosa,way/318810730,,duplicate,33.07125,-106.012295
+node/357605776,Turquoise Trail Charter School,,,,,way/622174089,,duplicate,35.535974,-106.052877
+node/357581574,Valley High School,Albuquerque Public Schools,public,,Albuquerque,way/202213473,,duplicate,35.125323,-106.660582
+node/357613892,Wagon Mound Elementary School,,,,,way/1344902679,,duplicate,36.009194,-104.701653
+node/357604565,Wagon Mound High School,,,,,way/1344902679,,duplicate,36.009641,-104.702368
+node/357581718,Washington Avenue Elementary School,,,,Roswell,way/369442676,,duplicate,33.39709,-104.532149
+node/357581824,West Las Vegas High School,,,,,way/1315228045,,duplicate,35.591327,-105.22353
+node/357582033,Will Rogers Elementary School,,,,Hobbs,way/1327927408,,duplicate,32.707183,-103.13388
+node/357582090,Wilson School,,,,,way/1148896461,,duplicate,36.736668,-108.376468
+node/357613849,Wingate Elementary School,,,,,way/914908237,,duplicate,35.467541,-108.548197
+node/357613604,Yucca Elementary School,,,,,way/1180905626,,duplicate,32.850732,-104.413474
+node/357600493,Zia Elementary School,Albuquerque Public Schools,public,,Albuquerque,way/165561783,,duplicate,35.08588,-106.591691
+node/8092279714,Zuni Middle School,Zuni Public Schools,,,,way/1148931309,,duplicate,35.075107,-108.839041
